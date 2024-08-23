@@ -3,7 +3,7 @@ A YouTube Clone built with the MERN stack (MongoDB, Express, React, Node.js) tha
 
 🚀 Features:-
 
--User Authentication 🔑 (Sign Up, Login, Logout)
+- User Authentication 🔑 (Sign Up, Login, Logout)
 -Video Uploads 🎥
 -View, Like, and Comment on Videos 👍💬
 -Search Functionality 🔍
