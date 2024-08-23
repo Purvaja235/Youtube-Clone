@@ -3,25 +3,25 @@ A YouTube Clone built with the MERN stack (MongoDB, Express, React, Node.js) tha
 
 🚀 Features:-
 
-User Authentication 🔑 (Sign Up, Login, Logout)
-Video Uploads 🎥
-View, Like, and Comment on Videos 👍💬
-Search Functionality 🔍
-User Profiles 👤 with video management
-Responsive Design 📱💻
+-User Authentication 🔑 (Sign Up, Login, Logout)
+-Video Uploads 🎥
+-View, Like, and Comment on Videos 👍💬
+-Search Functionality 🔍
+-User Profiles 👤 with video management
+-Responsive Design 📱💻
 
 🛠️ Tech Stack:-
 
 Frontend:
-React.js ⚛️
-Redux for state management
-React Router for navigation
-CSS (or Tailwind CSS for styling)
+-React.js ⚛️
+-Redux for state management
+-React Router for navigation
+-CSS (or Tailwind CSS for styling)
 
 Backend:
-Node.js 🟩
-Express.js 🚀
-MongoDB with Mongoose for database management
-JWT for authentication
-Multer for handling file uploads
+-Node.js 🟩
+-Express.js 🚀
+-MongoDB with Mongoose for database management
+-JWT for authentication
+-Multer for handling file uploads
 
